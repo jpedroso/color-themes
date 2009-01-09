@@ -1,0 +1,15 @@
+IntelliJ IDEA Color Theme based on MacRabbit's CSSEdit2 colors.
+
+Supports Java, Properties , PHP, XML, HTML, XPath, CSS, JavaScript, Groovy,
+JSP, SQL and Diff.
+
+Default font is Monaco 11pt.
+
+To install In Mac OS X, copy CSSEditColors.xml  to ~/Library/Preferences/IntelliJIDEA/colors/
+
+    $ cp CSSEditColors.xml ~/Library/Preferences/IntelliJIDEA/colors/
+    
+
+Handcrafted by Jorge Pedroso.
+Email: jpedroso at unsolicitedfeedback.com
+Homepage: http://unsolicitedfeedback.com
